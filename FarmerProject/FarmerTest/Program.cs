@@ -64,6 +64,7 @@ namespace FarmerTest
         /// <param name="args"></param>
         static void Main(string[] args)
         {
+            Console.WriteLine("try commit");
             Test1();
             Test2();
             Test3();
